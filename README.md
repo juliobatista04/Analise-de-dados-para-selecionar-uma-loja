@@ -30,7 +30,7 @@ Este projeto demonstra como a análise de dados pode ser utilizada para auxiliar
 
 ## Autor
 
-[Seu Nome]
+Julio César Batista Silva
 
 ## Licença
 

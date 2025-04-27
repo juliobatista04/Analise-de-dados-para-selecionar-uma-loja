@@ -1,0 +1,1 @@
+# Analise-de-dados-para-selecionar-uma-loja
